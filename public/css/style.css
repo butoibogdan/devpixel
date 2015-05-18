@@ -35,7 +35,7 @@ body{
 	-o-background-size: cover;
  	background-size: cover;
  	font-family: 'Arimo', sans-serif;
- 	background: #000000;
+ 	background: red;
 
 }
 .login-form{
